@@ -1,0 +1,20 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "prompt": "^1.0.0",
+    "say": "^0.16.0",
+    "textract": "^2.5.0"
+  },
+  "name": "pdftttspeech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
